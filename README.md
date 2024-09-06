@@ -64,8 +64,8 @@
             <img 
               src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
               alt="https://www.linux.org/" 
-              width="40" 
-              height="40"
+              width="50" 
+              height="60"
             /> 
       </a>
     </span>
