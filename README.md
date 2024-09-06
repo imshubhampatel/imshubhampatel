@@ -267,6 +267,18 @@
             /> 
       </a>   
     </span>
+         &nbsp;&nbsp;
+     <span>
+      <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
+       <a href="https://www.socket.io/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg"
+              alt="https://www.socket.io/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>   
+    </span>
      <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
