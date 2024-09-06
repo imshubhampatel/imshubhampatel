@@ -8,7 +8,7 @@ I'm a Software Developer working at Ataloud Technologies with expertise in React
 - **Cloud**: AWS (IAM, VPC, EC2, RDS, S3, ECS, EKS, ECR, AWS Lambda, Serveless, CloudFormation)
 
 ### 📊 GitHub Stats:
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham&show_icons=true&theme=radical)
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imshubhampatel&show_icons=true&theme=radical)
 
 ### 📫 Contact Me:
 - LinkedIn: [Shubham Patel](https://www.linkedin.com/in/imshubhampatel)
