@@ -185,6 +185,18 @@
       </a>  
     </span>
      &nbsp;&nbsp;
+<!-- React js  -->
+     <span>
+       <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+              alt="https://react.dev/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>   
+    </span>
+         &nbsp;&nbsp;
 <!-- Next js  -->
      <span>
        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
