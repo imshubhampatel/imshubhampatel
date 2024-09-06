@@ -39,7 +39,7 @@
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" 
               alt="https://www.gnu.org/software/bash/" 
               width="60" 
-              height="60"
+              height="50"
             /> 
       </a>   
     </span>
