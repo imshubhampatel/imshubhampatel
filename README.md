@@ -75,9 +75,9 @@
          &nbsp; &nbsp;
 <!-- Jenkins -->
        <span>
-       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+       <a href="https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> 
             <img 
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-line.svg"
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
               alt="https://www.linux.org/" 
               width="50" 
               height="50"
