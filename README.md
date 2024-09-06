@@ -170,6 +170,17 @@
             /> 
       </a>  
     </span>&nbsp; &nbsp;
+<!-- prometheus -->
+    <span>
+       <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg"
+              alt="https://redis.io/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>  
+    </span>&nbsp; &nbsp;
 
 <h3 align="left">Additional Tools</h3>
 <div width="100%">
