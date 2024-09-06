@@ -22,6 +22,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div width="100%">
+      <span >
+       <a href="https://azure.microsoft.com/en-IN/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" 
+              alt="https://azure.microsoft.com/en-IN/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>   
+    </span>
      <span >
        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
             <img 
