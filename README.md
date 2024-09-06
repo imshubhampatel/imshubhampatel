@@ -21,7 +21,7 @@
                  align="center"
                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"
                  alt="imshubhampatel" 
-                 height="30" 
+                 height="40" 
                  width="40"
               />
        </a>
