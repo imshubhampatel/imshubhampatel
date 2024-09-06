@@ -22,10 +22,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div width="100%">
-      <span >
+      <span>
+      <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"  -->
        <a href="https://azure.microsoft.com/en-IN/" target="_blank" rel="noreferrer"> 
             <img 
-<!--               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"  -->
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-plain.svg" 
               alt="https://azure.microsoft.com/en-IN/" 
               width="50" 
