@@ -35,7 +35,7 @@
     <span width="40%" >
        <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"> 
             <img 
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain-wordmark.svg" 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" 
               alt="https://axios-http.com/docs/intro" 
               width="100" 
               height="50"
