@@ -96,10 +96,10 @@
 <!-- Kibana -->
      <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
-       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+       <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg"
-              alt="https://www.linux.org/" 
+              alt="https://www.elastic.co/kibana" 
               width="40" 
               height="50"
             /> 
