@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Working as a **Full Stack Developer**
 
-- 💬 Ask me about **Javascript, Python, Java, DSA, Development**
+- 💬 Ask me about **Javascript, Python, DSA &* Development**
 
 - 📫 How to reach me **Shubhampatel2024@gmail.com**
 
