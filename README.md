@@ -81,7 +81,7 @@
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg"
               alt="https://www.linux.org/" 
               width="40" 
-              height="40"
+              height="50"
             /> 
       </a>   
     </span>
