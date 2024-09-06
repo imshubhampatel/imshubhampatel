@@ -535,15 +535,14 @@
 <div>&nbsp;</div>
 
 <b>My GitHub Stats</b>
-<div>
-<div width="45%">
+<div width="100%" align="center">
+<div width="30%" align="left">
 <a href="http://www.github.com/imshubhampatel"><img src="https://github-readme-stats.vercel.app/api?username=imshubhampatel&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="imshubhampatel's GitHub stats" /></a>
 
 <a href="http://www.github.com/imshubhampatel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imshubhampatel&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>  
 </div>
-<div width="45%">
+<div width="30%" align="right">
 <a href="https://github.com/imshubhampatel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhampatel&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 </div>
 </div>
 
