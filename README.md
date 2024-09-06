@@ -99,7 +99,7 @@
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thealgorithms/thealgorithms-original-wordmark.svg"
               alt="https://the-algorithms.com/" 
               width="60" 
-              height="60"
+              height="50"
             /> 
       </a>
     </span>
