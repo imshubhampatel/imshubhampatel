@@ -40,7 +40,7 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
               alt="https://www.linux.org/" 
-              width="200" 
+              width="50" 
               height="40"
             /> 
       </a>   
@@ -131,8 +131,8 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original-wordmark.svg"
               alt="https://www.sonarsource.com/" 
-              width="50" 
-              height="50"
+              width="100" 
+              height="80"
             /> 
       </a>  
     </span>&nbsp; &nbsp;
