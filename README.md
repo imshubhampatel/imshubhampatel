@@ -77,11 +77,11 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"
               alt="https://www.linux.org/" 
-              width="60" 
+              width="50" 
               height="50"
             /> 
       </a>  
-    </span> &nbsp; &nbsp;
+    </span> &nbsp;
 <!-- Jenkins  -->
     <span>
        <a href="https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> 
