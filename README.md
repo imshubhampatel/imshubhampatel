@@ -22,7 +22,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div width="100%">
-    <span width="40%" >
+     <span >
+       <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" 
+              alt="https://bitbucket.org/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>   
+    </span>
+    <span >
        <a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
@@ -32,7 +42,7 @@
             /> 
       </a>   
     </span>
-    <span width="40%" >
+    <span >
        <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" 
