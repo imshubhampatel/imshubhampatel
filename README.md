@@ -112,7 +112,7 @@
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original-wordmark.svg"
               alt="https://ubuntu.com/" 
               width="100" 
-              height="80"
+              height="60"
             /> 
       </a>  
     </span> &nbsp;
