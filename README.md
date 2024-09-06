@@ -425,6 +425,17 @@
             /> 
       </a>  
     </span>
+    &nbsp; &nbsp;
+    <span >
+       <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
+              alt="https://webpack.js.org/" 
+              width="60" 
+              height="50"
+            /> 
+      </a>  
+    </span>
 </div>
 
 
