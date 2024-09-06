@@ -92,6 +92,17 @@
             /> 
       </a>
     </span>
+<!--Algorithms -->
+     <span>
+       <a href="https://the-algorithms.com/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thealgorithms/thealgorithms-original-wordmark.svg"
+              alt="https://the-algorithms.com/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>
+    </span>
 
 <h3 align="left">Deployments Tools</h3>
 <!-- Gitlab  -->
