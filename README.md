@@ -22,6 +22,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div width="100%">
+        <span>
+      <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
+       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+              alt="https://www.linux.org/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>   
+    </span>
       <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"  -->
        <a href="https://azure.microsoft.com/en-IN/" target="_blank" rel="noreferrer"> 
