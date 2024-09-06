@@ -369,6 +369,17 @@
             /> 
       </a>  
     </span>
+    &nbsp; &nbsp;
+    <span >
+       <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" 
+              alt="https://stackoverflow.com/" 
+              width="60" 
+              height="50"
+            /> 
+      </a>  
+    </span>
 </div>
 
 
