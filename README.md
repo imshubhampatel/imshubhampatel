@@ -45,6 +45,18 @@
             /> 
       </a>   
     </span>
+<!--     TypeScript  -->
+     <span>
+      <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
+       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+              alt="https://www.linux.org/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>   
+    </span>
 
 <h3 align="left">Additional Tools</h3>
 <div width="100%">
