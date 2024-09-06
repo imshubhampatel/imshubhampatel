@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Shubham Patel 👋
+I'm a Software Developer working at Ataloud Technologies with expertise in React, Node,Nava and Spring Boot, Python and Django. Passionate about building solutions and learning new technologies.
 
-<!--
-**imshubhampatel/imshubhampatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack:
+- **Languages**: Python, JavaScript, Node, Java
+- **Frameworks**: Django, React, Spring Boot
+- **Tools**:  Git, Jenkins, Docker, Kubernetes,
+- **Cloud**: AWS (IAM, VPC, EC2, RDS, S3, ECS, EKS, ECR, AWS Lambda, Serveless, CloudFormation)
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats:
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me:
+- LinkedIn: [Shubham Patel](https://www.linkedin.com/in/imshubhampatel)
+- Email: Shubhampatel2024@gmail.com
