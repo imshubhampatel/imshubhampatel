@@ -27,8 +27,8 @@
     <img 
       src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/yaml/yaml-original.svg" 
       alt="https://yaml.org/" 
-      width="40" 
-      height="40"
+      width="60" 
+      height="60"
     /> 
   </a> 
 </p>
