@@ -347,6 +347,17 @@
     </span>
          &nbsp;&nbsp;
      <span>
+       <a href="https://www.npm.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
+              alt="https://www.npm.org/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>   
+    </span>
+         &nbsp;&nbsp;
+     <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
        <a href="https://socket.io/docs/v4/tutorial/introduction" target="_blank" rel="noreferrer"> 
             <img 
