@@ -26,7 +26,7 @@
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
             <img 
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-line-wordmark.svg"
               alt="https://www.linux.org/" 
               width="70" 
               height="50"
