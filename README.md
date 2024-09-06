@@ -73,14 +73,15 @@
       </a>  
     </span>
          &nbsp; &nbsp;
+<!-- Kibana -->
      <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg"
               alt="https://www.linux.org/" 
-              width="50" 
-              height="50"
+              width="40" 
+              height="40"
             /> 
       </a>   
     </span>
