@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Patel</h1>
-<h3 align="center">I'm a Full Stack Developer working at Ataloud Technologies with expertise in React, Node, Java and Spring Boot, Python and Django. Passionate about building solutions and learning new technologies.</h3>
+<h3 align="center">A passionate computer science engineering, pre-final year student of IIIT Vadodara.</h3>
 
 - 🔭 I’m currently working on **Ataloud Technologies**
 
