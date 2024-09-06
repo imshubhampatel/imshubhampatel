@@ -81,6 +81,17 @@
             /> 
       </a>
     </span>
+<!--Python  -->
+     <span>
+       <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+              alt="https://www.python.org/" 
+              width="80" 
+              height="60"
+            /> 
+      </a>
+    </span>
 
 <h3 align="left">Deployments Tools</h3>
 <!-- Gitlab  -->
