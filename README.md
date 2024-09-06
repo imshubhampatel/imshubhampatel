@@ -76,7 +76,7 @@
        <a href="https://about.gitlab.com/developer-experience/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"
-              alt="https://about.gitlab.com/developer-experience/" 
+              alt="https://about.gitlab.com/" 
               width="50" 
               height="50"
             /> 
@@ -99,17 +99,17 @@
        <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg"
-              alt="https://www.elastic.co/kibana" 
+              alt="https://www.elastic.co" 
               width="40" 
               height="50"
             /> 
       </a>   
     </span>&nbsp; &nbsp;
     <span>
-       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+       <a href="https://grafana.com/docs/grafana/latest/getting-started/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"
-              alt="https://www.linux.org/" 
+              alt="https://grafana.com" 
               width="50" 
               height="50"
             /> 
