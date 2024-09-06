@@ -538,9 +538,9 @@
 <div width="100%" align="left">
 <span align="left">
 <a href="http://www.github.com/imshubhampatel"><img src="https://github-readme-stats.vercel.app/api?username=imshubhampatel&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="imshubhampatel's GitHub stats" width="33%" height="200%"/></a>
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.github.com/imshubhampatel"><img width="36%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=imshubhampatel&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> </span>
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <span align="right" >
 <a href="https://github.com/imshubhampatel"><img width="21%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhampatel&langs_count=3&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
