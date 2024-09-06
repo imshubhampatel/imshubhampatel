@@ -129,10 +129,10 @@
     <span>
        <a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"> 
             <img 
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-line-wordmark.svg"
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg"
               alt="https://www.sonarsource.com/" 
-              width="100" 
-              height="80"
+              width="50" 
+              height="50"
             /> 
       </a>  
     </span>&nbsp; &nbsp;
