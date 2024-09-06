@@ -270,10 +270,10 @@
          &nbsp;&nbsp;
      <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
-       <a href="https://www.socket.io/" target="_blank" rel="noreferrer"> 
+       <a href="https://socket.io/docs/v4/tutorial/introduction" target="_blank" rel="noreferrer"> 
             <img 
               src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg"
-              alt="https://www.socket.io/" 
+              alt="https://socket.io/" 
               width="50" 
               height="50"
             /> 
