@@ -97,7 +97,7 @@
             /> 
       </a>   
     </span>
-         &nbsp;
+         &nbsp; &nbsp;
      <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
@@ -109,7 +109,7 @@
             /> 
       </a>   
     </span>
-         &nbsp;
+         &nbsp; &nbsp;
         <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
@@ -121,7 +121,7 @@
             /> 
       </a>   
     </span>
-         &nbsp;
+         &nbsp; &nbsp;
       <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"  -->
        <a href="https://azure.microsoft.com/en-IN/" target="_blank" rel="noreferrer"> 
@@ -133,7 +133,7 @@
             /> 
       </a>   
     </span>
-      &nbsp;
+      &nbsp; &nbsp;
      <span >
        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
             <img 
@@ -144,7 +144,7 @@
             /> 
       </a>   
     </span>
-      &nbsp;
+      &nbsp; &nbsp;
      <span >
        <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> 
             <img 
@@ -155,7 +155,7 @@
             /> 
       </a>   
     </span>
-      &nbsp;
+      &nbsp; &nbsp;
     <span >
        <a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
             <img 
@@ -166,7 +166,7 @@
             /> 
       </a>   
     </span>
-      &nbsp;
+      &nbsp; &nbsp;
     <span >
        <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"> 
             <img 
@@ -177,8 +177,6 @@
             /> 
       </a>  
     </span>
-   
-
 </div>
 
 
