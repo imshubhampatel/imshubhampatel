@@ -105,6 +105,17 @@
     </span>
 
 <h3 align="left">Deployments Tools</h3>
+<!-- Ubuntu  -->
+    <span>
+       <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"
+              alt="https://ubuntu.com/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>  
+    </span> &nbsp;
 <!-- Gitlab  -->
     <span>
        <a href="https://about.gitlab.com/developer-experience/" target="_blank" rel="noreferrer"> 
