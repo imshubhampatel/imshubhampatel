@@ -37,7 +37,7 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" 
               alt="https://axios-http.com/docs/intro" 
-              width="100" 
+              width="60" 
               height="50"
             /> 
       </a>  
