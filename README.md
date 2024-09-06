@@ -40,7 +40,7 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
               alt="https://www.linux.org/" 
-              width="40" 
+              width="200" 
               height="40"
             /> 
       </a>   
