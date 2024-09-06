@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div width="100%" align="left">
-    <div width="40%" >
+    <div width="10%" >
        <a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
@@ -32,7 +32,7 @@
             /> 
       </a>   
     </div>
-    <div width="40%" >
+    <div width="10%" >
        <a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
