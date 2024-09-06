@@ -148,6 +148,16 @@
             /> 
       </a>  
     </span>&nbsp; &nbsp;
+    <span>
+       <a href="https://www.prometheus.com/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg"
+              alt="https://www.prometheus.com/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>  
+    </span>&nbsp; &nbsp;
 
 <h3 align="left">Additional Tools</h3>
 <div width="100%">
