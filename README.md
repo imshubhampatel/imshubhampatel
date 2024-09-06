@@ -36,7 +36,7 @@
 <!-- https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg -->
      <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
-       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+       <a href="ttps://www.linux.org/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
               alt="https://www.linux.org/" 
@@ -73,10 +73,10 @@
 <h3 align="left">Deployments Tools</h3>
 <!-- Gitlab  -->
     <span>
-       <a href="https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> 
+       <a href="https://about.gitlab.com/developer-experience/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"
-              alt="https://www.linux.org/" 
+              alt="https://about.gitlab.com/developer-experience/" 
               width="50" 
               height="50"
             /> 
