@@ -53,14 +53,14 @@
               height="50"
             /> 
       </a>   
-    </span>&nbsp;
+    </span>& &nbsp;&nbsp;
 <!-- express js  -->
      <span>
        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
               alt="https://www.mysql.com/" 
-              width="50" 
+              width="60" 
               height="50"
             /> 
       </a>   
