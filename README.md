@@ -73,6 +73,18 @@
       </a>  
     </span>
          &nbsp; &nbsp;
+<!-- Jenkins -->
+       <span>
+       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-plain.svg"
+              alt="https://www.linux.org/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>  
+    </span>
+         &nbsp; &nbsp;
 <!-- Kibana -->
      <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
