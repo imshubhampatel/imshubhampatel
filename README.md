@@ -312,13 +312,23 @@
             /> 
       </a>   
     </span>
-         &nbsp;&nbsp;
+     &nbsp;&nbsp;
      <span>
-      <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
               alt="https://www.linux.org/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>   
+    </span>
+     &nbsp;&nbsp;
+     <span>
+       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+              alt="https://www.mongodb.com/" 
               width="50" 
               height="50"
             /> 
