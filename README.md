@@ -151,6 +151,18 @@
       </a>  
     </span>
      &nbsp;&nbsp;
+<!-- Next js  -->
+     <span>
+       <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+              alt="https://nextjs.org/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>   
+    </span>
+         &nbsp;&nbsp;
 <!-- express js  -->
      <span>
        <a href="https://expressjs.com/en/starter/installing.html" target="_blank" rel="noreferrer"> 
