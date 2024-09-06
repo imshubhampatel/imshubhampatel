@@ -170,7 +170,7 @@
             /> 
       </a>  
     </span>&nbsp; &nbsp;
-<!-- prometheus -->
+<!-- Redis -->
     <span>
        <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
             <img 
@@ -375,6 +375,17 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" 
               alt="https://stackoverflow.com/" 
+              width="60" 
+              height="50"
+            /> 
+      </a>  
+    </span>
+    &nbsp; &nbsp;
+    <span >
+       <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" 
+              alt="https://webpack.js.org/" 
               width="60" 
               height="50"
             /> 
