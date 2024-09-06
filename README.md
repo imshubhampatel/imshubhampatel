@@ -257,8 +257,8 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
               alt="https://www.linux.org/" 
-              width="50" 
-              height="50"
+              width="60" 
+              height="60"
             /> 
       </a>  
     </span>
