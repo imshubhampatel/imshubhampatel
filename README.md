@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<div width="100%" align="left">
     <div width="40%" >
        <a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
             <img 
@@ -43,15 +43,8 @@
       </a>   
     </div>
    
-  <a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/yaml/yaml-original.svg" 
-      alt="https://yaml.org/" 
-      width="60" 
-      height="60"
-    /> 
-  </a> 
-</p>
+
+</div>
 
 
 <b>My GitHub Stats</b>
