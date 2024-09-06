@@ -42,7 +42,7 @@
             /> 
       </a>   
     </span>
-     &nbsp;&nbsp;
+     &nbsp;
 <!-- express js  -->
      <span>
        <a href="https://expressjs.com/en/starter/installing.html" target="_blank" rel="noreferrer"> 
@@ -53,7 +53,7 @@
               height="50"
             /> 
       </a>   
-    </span>& &nbsp;&nbsp;
+    </span>&nbsp;
 <!-- express js  -->
      <span>
        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
