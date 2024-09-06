@@ -28,8 +28,8 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg"
               alt="https://www.linux.org/" 
-              width="50" 
-              height="70"
+              width="70" 
+              height="50"
             /> 
       </a>   
     </span>
