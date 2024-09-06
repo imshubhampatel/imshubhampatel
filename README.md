@@ -243,19 +243,6 @@
     </span>&nbsp; &nbsp;
 
 <h3 align="left">Additional Tools</h3>
-<div width="100%">
-<!-- Vim -->
-     <span>
-       <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> 
-            <img 
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"
-              alt="https://www.vim.org/" 
-              width="50" 
-              height="50"
-            /> 
-      </a>  
-    </span>
-     &nbsp; &nbsp;
 <!-- Docker -->
      <span>
        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
@@ -397,20 +384,8 @@
             /> 
       </a>   
     </span>
-     <span>
-      <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
-       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-            <img 
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
-              alt="https://www.linux.org/" 
-              width="60" 
-              height="50"
-            /> 
-      </a>   
-    </span>
          &nbsp; &nbsp;
         <span>
-      <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
