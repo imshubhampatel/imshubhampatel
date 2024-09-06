@@ -28,7 +28,7 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
               alt="https://www.linux.org/" 
-              width="80" 
+              width="50" 
               height="50"
             /> 
       </a>   
