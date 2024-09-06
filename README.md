@@ -98,8 +98,8 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thealgorithms/thealgorithms-original-wordmark.svg"
               alt="https://the-algorithms.com/" 
-              width="50" 
-              height="50"
+              width="60" 
+              height="60"
             /> 
       </a>
     </span>
