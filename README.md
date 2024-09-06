@@ -250,7 +250,7 @@
             /> 
       </a>  
     </span>
-     &nbsp;&nbsp;
+     &nbsp; &nbsp;
 <!-- Kubernetes -->
      <span>
        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
