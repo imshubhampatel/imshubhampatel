@@ -265,6 +265,18 @@
       </a>   
     </span>
          &nbsp;&nbsp;
+<!-- Material Ui Redux  -->
+     <span>
+       <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg"
+              alt="https://mui.com/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>   
+    </span>
+         &nbsp;&nbsp;
 <!-- Next js  -->
      <span>
        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
