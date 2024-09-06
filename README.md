@@ -206,6 +206,18 @@
 
 <h3 align="left">Additional Tools</h3>
 <div width="100%">
+<!-- Vim -->
+     <span>
+       <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"
+              alt="https://www.vim.org/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>  
+    </span>
+     &nbsp;&nbsp;
 <!-- Kubernetes -->
      <span>
        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
