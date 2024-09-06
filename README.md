@@ -40,8 +40,8 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
               alt="https://www.linux.org/" 
-              width="50" 
-              height="50"
+              width="40" 
+              height="40"
             /> 
       </a>   
     </span>
@@ -53,8 +53,8 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
               alt="https://www.linux.org/" 
-              width="50" 
-              height="50"
+              width="40" 
+              height="40"
             /> 
       </a>   
     </span>
