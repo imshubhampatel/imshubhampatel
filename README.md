@@ -154,8 +154,8 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg"
               alt="https://www.sonarsource.com/" 
-              width="50" 
-              height="50"
+              width="40" 
+              height="40"
             /> 
       </a>  
     </span>&nbsp; &nbsp;
