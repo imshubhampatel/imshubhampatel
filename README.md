@@ -208,6 +208,18 @@
       </a>   
     </span>
          &nbsp;&nbsp;
+<!-- React Redux  -->
+     <span>
+       <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+              alt="https://redux.js.org/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>   
+    </span>
+         &nbsp;&nbsp;
 <!-- Next js  -->
      <span>
        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
