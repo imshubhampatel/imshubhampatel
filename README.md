@@ -32,6 +32,7 @@
             /> 
       </a>   
     </span>
+      &nbsp;
      <span >
        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
             <img 
