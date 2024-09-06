@@ -33,6 +33,7 @@
             /> 
       </a>   
     </span>
+         &nbsp;
       <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"  -->
        <a href="https://azure.microsoft.com/en-IN/" target="_blank" rel="noreferrer"> 
