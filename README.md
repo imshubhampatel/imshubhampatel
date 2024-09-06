@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div width="100%" align="left">
+<div width="100%">
     <span width="40%" >
        <a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
             <img 
