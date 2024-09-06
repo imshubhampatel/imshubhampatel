@@ -148,11 +148,12 @@
             /> 
       </a>  
     </span>&nbsp; &nbsp;
+<!-- prometheus -->
     <span>
-       <a href="https://www.prometheus.com/" target="_blank" rel="noreferrer"> 
+       <a href="https://www.prometheus.io/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg"
-              alt="https://www.prometheus.com/" 
+              alt="https://www.prometheus.io/" 
               width="50" 
               height="50"
             /> 
