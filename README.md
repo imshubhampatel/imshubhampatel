@@ -25,8 +25,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
     <a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-plain.svg" 
-      alt="https://yaml.org/" 
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" 
+      alt="https://aws.amazon.com/" 
       width="60" 
       height="60"
     /> 
