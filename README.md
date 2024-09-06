@@ -45,6 +45,7 @@
             /> 
       </a>   
     </span>
+     &nbsp; &nbsp;
 <!--     TypeScript  -->
      <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
