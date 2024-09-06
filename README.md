@@ -32,6 +32,17 @@
 </p>
 
 <h3 align="left">Databases Hands On</h3>
+     <span>
+       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+              alt="https://www.mongodb.com/" 
+              width="70" 
+              height="60"
+            /> 
+      </a>   
+    </span>
+     &nbsp;&nbsp;
 <!-- express js  -->
      <span>
        <a href="https://expressjs.com/en/starter/installing.html" target="_blank" rel="noreferrer"> 
@@ -329,17 +340,6 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
               alt="https://www.linux.org/" 
-              width="50" 
-              height="50"
-            /> 
-      </a>   
-    </span>
-     &nbsp;&nbsp;
-     <span>
-       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-            <img 
-              src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
-              alt="https://www.mongodb.com/" 
               width="50" 
               height="50"
             /> 
