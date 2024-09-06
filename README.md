@@ -93,6 +93,18 @@
             /> 
       </a>  
     </span> &nbsp; &nbsp;
+<!-- Elastic Search -->
+     <span>
+      <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
+       <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg"
+              alt="https://www.elastic.co" 
+              width="40" 
+              height="50"
+            /> 
+      </a>   
+    </span>&nbsp; &nbsp;
 <!-- Kibana -->
      <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
