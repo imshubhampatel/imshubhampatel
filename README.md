@@ -97,7 +97,7 @@
             /> 
       </a>   
     </span>
-         &nbsp; &nbsp;
+         &nbsp;
      <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
