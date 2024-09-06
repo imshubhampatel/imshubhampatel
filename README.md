@@ -109,10 +109,10 @@
     <span>
        <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
             <img 
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg"
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original-wordmark.svg"
               alt="https://ubuntu.com/" 
-              width="50" 
-              height="50"
+              width="100" 
+              height="80"
             /> 
       </a>  
     </span> &nbsp;
