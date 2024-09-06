@@ -27,8 +27,8 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
               alt="https://aws.amazon.com/" 
-              width="60" 
-              height="60"
+              width="50" 
+              height="50"
             /> 
       </a>   
     </div>
@@ -37,8 +37,8 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
               alt="https://aws.amazon.com/" 
-              width="60" 
-              height="60"
+              width="50" 
+              height="50"
             /> 
       </a>   
     </div>
