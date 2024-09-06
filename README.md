@@ -28,8 +28,8 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
               alt="https://www.linux.org/" 
-              width="80" 
-              height="60"
+              width="50" 
+              height="50"
             /> 
       </a>   
     </span>
