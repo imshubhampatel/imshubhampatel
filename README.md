@@ -33,14 +33,14 @@
       </a>   
     </span>
     <span width="40%" >
-       <a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
+       <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"> 
             <img 
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-              alt="https://aws.amazon.com/" 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain-wordmark.svg" 
+              alt="https://axios-http.com/docs/intro" 
               width="50" 
               height="50"
             /> 
-      </a>   
+      </a>  
     </span>
    
 
