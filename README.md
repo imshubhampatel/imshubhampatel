@@ -14,15 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imshubhampatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imshubhampatel" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/imshubhampatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imshubhampatel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/imshubhampatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imshubhampatel" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/imshubhampatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="imshubhampatel" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imshubhampatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshug9119" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@himanshug9119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@himanshug9119" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/himanshug9119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="himanshug9119" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@CodeWithConfidence01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="himanshu gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/himanshug9119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshug9119" height="30" width="40" /></a>
-<a href="https://twitter.com/himanshug9119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshug9119" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/imshubhampatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imshubhampatel" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/imshubhampatel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="imshubhampatel" height="30" width="40" /></a>
+<a href="https://instagram.com/me_s.mile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imshubhampatel" height="30" width="40" /></a>
+<a href="https://twitter.com/bbshubhampatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imshubhampatel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
