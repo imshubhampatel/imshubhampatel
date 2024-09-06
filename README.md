@@ -107,7 +107,6 @@
     </span>&nbsp; &nbsp;
 <!-- Kibana -->
      <span>
-      <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
        <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg"
@@ -122,6 +121,16 @@
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"
               alt="https://grafana.com" 
+              width="50" 
+              height="50"
+            /> 
+      </a>  
+    </span>&nbsp; &nbsp;
+    <span>
+       <a href="https://www.sonarsource.com/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original-wordmark.svg"
+              alt="https://www.sonarsource.com/" 
               width="50" 
               height="50"
             /> 
