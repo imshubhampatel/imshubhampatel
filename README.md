@@ -31,7 +31,7 @@
 <a href="https://twitter.com/bbshubhampatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imshubhampatel" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">DataBase Hands On</h3>
+<h3 align="left">Databases Hands On</h3>
 <!-- express js  -->
      <span>
        <a href="https://expressjs.com/en/starter/installing.html" target="_blank" rel="noreferrer"> 
