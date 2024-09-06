@@ -60,9 +60,9 @@
     </span>
 <!-- Java  -->
      <span>
-       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+       <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
             <img 
-              src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
               alt="https://www.linux.org/" 
               width="50" 
               height="60"
