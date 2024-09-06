@@ -70,22 +70,9 @@
       </a>
     </span>
 
-<h3 align="left">Additional Tools</h3>
-<div width="100%">
-<!-- Kubernetes -->
-       <span>
-       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-            <img 
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
-              alt="https://www.linux.org/" 
-              width="50" 
-              height="50"
-            /> 
-      </a>  
-    </span>
-         &nbsp;
-<!-- Jenkins -->
-       <span>
+<h3 align="left">Deployments Tools</h3>
+<!-- Jenkins  -->
+    <span>
        <a href="https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"
@@ -94,8 +81,7 @@
               height="50"
             /> 
       </a>  
-    </span>
-         &nbsp; &nbsp;
+    </span> &nbsp; &nbsp;
 <!-- Kibana -->
      <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
@@ -107,8 +93,32 @@
               height="50"
             /> 
       </a>   
+    </span>&nbsp; &nbsp;
+    <span>
+       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"
+              alt="https://www.linux.org/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>  
+    </span>&nbsp; &nbsp;
+
+<h3 align="left">Additional Tools</h3>
+<div width="100%">
+<!-- Kubernetes -->
+     <span>
+       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
+              alt="https://www.linux.org/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>  
     </span>
-         &nbsp; &nbsp;
+         &nbsp;
      <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
