@@ -163,6 +163,18 @@
       </a>   
     </span>
          &nbsp;&nbsp;
+<!-- Postman js  -->
+     <span>
+       <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg"
+              alt="https://postman.com" 
+              width="50" 
+              height="50"
+            /> 
+      </a>   
+    </span>
+         &nbsp;&nbsp;
 <!-- express js  -->
      <span>
        <a href="https://expressjs.com/en/starter/installing.html" target="_blank" rel="noreferrer"> 
