@@ -203,6 +203,17 @@
             /> 
       </a>  
     </span>&nbsp; &nbsp;
+<!-- Yaml -->
+    <span>
+       <a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg"
+              alt="https://yaml.org/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>  
+    </span>&nbsp; &nbsp;
 
 <h3 align="left">Additional Tools</h3>
 <div width="100%">
