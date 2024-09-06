@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Shubhampatel2024@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EW84vfmbW0HymM3n9chXXuqIgyu47jci/view?usp=sharing](https://drive.google.com/file/d/1EW84vfmbW0HymM3n9chXXuqIgyu47jci/view?usp=sharing)
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/1EW84vfmbW0HymM3n9chXXuqIgyu47jci/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
