@@ -62,10 +62,10 @@
      <span>
        <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
             <img 
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
               alt="https://www.linux.org/" 
-              width="50" 
-              height="60"
+              width="60" 
+              height="50"
             /> 
       </a>
     </span>
