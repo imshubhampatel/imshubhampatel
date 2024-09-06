@@ -71,6 +71,17 @@
     </span>
 
 <h3 align="left">Deployments Tools</h3>
+<!-- Gitlab  -->
+    <span>
+       <a href="https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"
+              alt="https://www.linux.org/" 
+              width="60" 
+              height="50"
+            /> 
+      </a>  
+    </span> &nbsp; &nbsp;
 <!-- Jenkins  -->
     <span>
        <a href="https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> 
