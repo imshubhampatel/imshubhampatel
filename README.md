@@ -516,7 +516,6 @@
     </span>
 </div>
 <div>&nbsp;</div>
-<div>&nbsp;</div>
 
 <b>My GitHub Stats</b>
 
