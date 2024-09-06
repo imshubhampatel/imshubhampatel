@@ -32,6 +32,16 @@
             /> 
       </a>   
     </div>
+    <div width="50%" >
+       <a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+              alt="https://aws.amazon.com/" 
+              width="60" 
+              height="60"
+            /> 
+      </a>   
+    </div>
    
   <a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
     <img 
