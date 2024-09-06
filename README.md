@@ -221,6 +221,17 @@
             /> 
       </a>  
     </span>
+    &nbsp; &nbsp;
+    <span >
+       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" 
+              alt="https://firebase.google.com/" 
+              width="60" 
+              height="50"
+            /> 
+      </a>  
+    </span>
 </div>
 
 
