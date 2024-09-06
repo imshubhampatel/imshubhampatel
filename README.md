@@ -23,6 +23,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <div width="100%">
      <span >
+       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" 
+              alt="https://www.gnu.org/software/bash/" 
+              width="50" 
+              height="50"
+            /> 
+      </a>   
+    </span>
+     <span >
        <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" 
