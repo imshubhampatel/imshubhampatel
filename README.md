@@ -43,6 +43,7 @@
             /> 
       </a>   
     </span>
+      &nbsp;
      <span >
        <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> 
             <img 
@@ -53,6 +54,7 @@
             /> 
       </a>   
     </span>
+      &nbsp;
     <span >
        <a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
             <img 
@@ -63,6 +65,7 @@
             /> 
       </a>   
     </span>
+      &nbsp;
     <span >
        <a href="https://axios-http.com/docs/intro" target="_blank" rel="noreferrer"> 
             <img 
