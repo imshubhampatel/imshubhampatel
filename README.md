@@ -58,6 +58,17 @@
             /> 
       </a>   
     </span>
+<!-- Java  -->
+     <span>
+       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+            <img 
+              src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
+              alt="https://www.linux.org/" 
+              width="40" 
+              height="40"
+            /> 
+      </a>
+    </span>
 
 <h3 align="left">Additional Tools</h3>
 <div width="100%">
