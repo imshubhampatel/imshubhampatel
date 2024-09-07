@@ -28,7 +28,7 @@ jobs:
     - name: Commit changes
       run: |
         git config --local user.email "shubhampatel2024@gmail.com"
-        git config --local user.name "Shubham Patel"
+        git config --local user.name "imshubhampatel"
         git add .
         git commit -m "Update LeetCode stats"
 
