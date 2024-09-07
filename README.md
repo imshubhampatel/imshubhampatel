@@ -530,7 +530,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/imshubhampatel?theme=dark&ext=heatmap)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/imshubhampatel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhampatel&langs_count=6&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=101010&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/imshubhampatel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhampatel&langs_count=6&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=101010&hide_border=true&locale=en&custom_title=Top%6%Languages" alt="Top Languages" /></a>
 
 
 </div>
