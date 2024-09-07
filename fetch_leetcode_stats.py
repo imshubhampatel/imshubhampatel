@@ -1,7 +1,7 @@
 import requests
 
 # Fetch the data from the API
-response = requests.get('URL_OF_THE_API')
+response = requests.get("https://leetcard.jacoblin.cool/JacobLinCool?ext=heatmap")
 
 # Make sure to handle the response correctly
 if response.status_code == 200:
