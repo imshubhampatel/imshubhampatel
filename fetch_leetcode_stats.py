@@ -1,23 +1,29 @@
 import requests
-from bs4 import BeautifulSoup
 
-url = "https://leetcard.jacoblin.cool/JacobLinCool?ext=heatmap"
+# Fetch the data from the API
+response = requests.get('URL_OF_THE_API')
 
-response = requests.get(url)
-
+# Make sure to handle the response correctly
 if response.status_code == 200:
-    old_name_bytes =   '<rect id="background"></rect>'.encode('utf-8')
-    new_name_bytes =  '<rect id="background" style="opacity: 0;"></rect>'.encode('utf-8')
-    print(new_name_bytes)
-    print("kidfsd")
-    print("kidfsd")
-    print(old_name_bytes)
-    print(response.content)
-    with open(response.content, 'rb') as file:
-        binary_data = file.read()
-        updated_binary_data = binary_data.replace(old_name_bytes, new_name_bytes)
-    with open("leetcode_activity.svg", 'wb') as file:
-        file.write(updated_binary_data)
-    print("SVG modified and saved successfully!")
+    # Open a file to write the binary data
+    with open('output_file.svg', 'wb') as file:
+        file.write(response.content)
 else:
-    print(f"Failed to fetch SVG. Status code: {response.status_code}")
+    print(f"Failed to fetch data: {response.status_code}")
+
+# If you need to replace a specific element in the fetched content
+def replace_element_in_svg(file_path, old_name, new_name):
+    with open(file_path, 'r+', encoding='utf-8') as file:
+        svg_content = file.read()
+        print(svg_content)
+        # Replace the old name with the new name in the SVG content
+        updated_svg_content = svg_content.replace(old_name, new_name)
+        # Move the file pointer to the beginning of the file
+        file.seek(0)
+        # Write the updated content back to the file
+        file.write(updated_svg_content)
+        # Truncate the file to the new length
+        file.truncate()
+
+# Example usage
+replace_element_in_svg('output_file.svg', '<rect id="background"></rect>'.encode('utf-8'), '<rect id="background" style="opacity: 0;"></rect>'.encode('utf-8'))
