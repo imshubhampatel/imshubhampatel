@@ -527,6 +527,7 @@
 <div>&nbsp;</div>
 <div>
 <span align="left">
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/imshubhampatel?theme=dark&ext=activity)
 </span>
 <span align="right" >     
