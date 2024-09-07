@@ -6,7 +6,7 @@ url = "https://leetcard.jacoblin.cool/imshubhampatel?ext=activity"
 response = requests.get(url)
 
 if response.status_code == 200:
-    with open('leetcode_activity.svg', 'w') as file:
+    with open('leetcode_activity.svg', 'wb') as file:
         file.write(response.content)
     print("SVG modified and saved successfully!")
 else:
