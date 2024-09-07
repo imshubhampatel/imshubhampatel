@@ -511,8 +511,7 @@
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 
-<b>My GitHub Stats</b>
-<div>&nbsp;</div>
+<h3 align="left">My Github Stats</h3>
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 
@@ -529,9 +528,9 @@
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
-<div>&nbsp;</div>
 
-<b>LeetCode and Languages</b>
+<h3 align="left">LeetCode and Languages</h3>
+
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 
