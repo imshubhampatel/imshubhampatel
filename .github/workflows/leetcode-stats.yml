@@ -1,9 +1,12 @@
 name: Update LeetCode Stats
 
 on:
+  push:  # Trigger the action on push events
+    branches:
+      - main
   schedule:
-    - cron: '* * * * *'
-  workflow_dispatch:
+    - cron: '*/1 * * * *'  # Runs every minute
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update-readme:
@@ -21,10 +24,7 @@ jobs:
     
     - name: Install dependencies
       run: |
-        pip install requests
-        pip install beautifulsoup4
-        pip install lxml
-
+        pip install requests beautifulsoup4 lxml
     
     - name: set LeetCode stats
       run: |
