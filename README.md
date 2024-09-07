@@ -528,7 +528,7 @@
 <b>LeetCode and Languages</b>
 <div>&nbsp;</div>
 
-<img  src="./leetcode_activity.svg" />
+<img width="40%" src="./leetcode_activity.svg" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/imshubhampatel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhampatel&langs_count=6&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&locale=en&custom_title=Top%206%20Languages" alt="Top Languages" /></a>
 
