@@ -513,7 +513,8 @@
 
 <b>My GitHub Stats</b>
 <div>&nbsp;</div>
-<div>&nbsp;</div>>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 
 <div width="100%" align="left">
 <span align="left">
@@ -531,6 +532,9 @@
 <div>&nbsp;</div>
 
 <b>LeetCode and Languages</b>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 
 <a align="left" href="https://github.com/imshubhampatel">
 <img align="left" src="./leetcode_activity.svg" />
