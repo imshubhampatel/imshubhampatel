@@ -3,7 +3,7 @@ name: Update LeetCode Stats
 on:
   schedule:
     # Run this action daily (set according to your preference)
-    - cron: '0 0 * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   update-readme:

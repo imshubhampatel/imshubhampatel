@@ -5,7 +5,7 @@ import json
 LEETCODE_USERNAME = "your_leetcode_username"
 
 # Fetch stats from LeetCode API
-url = f"https://leetcode-stats-api.herokuapp.com/{LEETCODE_USERNAME}"
+url = f"https://leetcode-stats-api.herokuapp.com/imshubhampatel"
 response = requests.get(url)
 
 if response.status_code == 200:
@@ -19,4 +19,4 @@ if response.status_code == 200:
         f.write(f"Easy: {data['easySolved']} | Medium: {data['mediumSolved']} | Hard: {data['hardSolved']}\n")
 
 else:
-    print(f"Failed to fetch stats for {LEETCODE_USERNAME}")
+    print(f"Failed to fetch stats for imshubhampatel")
