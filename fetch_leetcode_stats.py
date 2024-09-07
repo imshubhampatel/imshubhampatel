@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = "https://leetcard.jacoblin.cool/imshubhampatel?ext=activity"
+url = "https://leetcard.jacoblin.cool/JacobLinCool?ext=heatmap"
 
 response = requests.get(url)
 
