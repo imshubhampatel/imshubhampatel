@@ -11,6 +11,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.PAT_TOKEN }}
       
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -33,4 +35,4 @@ jobs:
         git config --local user.name "imshubhampatel"
         git add .
         git commit -m "Update LeetCode stats"
-        git push https://x-access-token:$GITHUB_TOKEN@github.com/imshubhampatel/imshubhampatel.git HEAD:main
+        git push https://$GITHUB_TOKEN@github.com/imshubhampatel/imshubhampatel.git HEAD:main
