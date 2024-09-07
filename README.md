@@ -518,7 +518,7 @@
 </span>
 &nbsp;&nbsp;&nbsp;
 <span  align="right">
-<a href="http://www.github.com/imshubhampatel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imshubhampatel&stroke=ffffff&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="51%" /></a>
+<a href="http://www.github.com/imshubhampatel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imshubhampatel&stroke=ffffff&background=transparent&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="51%" /></a>
 </span>
 
 </div>
