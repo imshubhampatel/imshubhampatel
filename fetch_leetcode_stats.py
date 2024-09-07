@@ -13,6 +13,7 @@ else:
 
 # If you need to replace a specific element in the fetched content
 def replace_element_in_svg(file_path, old_name, new_name):
+    print(old_name,new_name)
     with open(file_path, 'r+', encoding='utf-8') as file:
         svg_content = file.read()
         print(svg_content)
@@ -26,4 +27,4 @@ def replace_element_in_svg(file_path, old_name, new_name):
         file.truncate()
 
 # Example usage
-replace_element_in_svg('output_file.svg', '<rect id="background"></rect>'.encode('utf-8'), '<rect id="background" style="opacity: 0;"></rect>'.encode('utf-8'))
+replace_element_in_svg('output_file.svg', '<rect id="background"></rect>'.encode('utf-8'), '<rect id="background" style="opacity: 0;"></rect>'.encode('utf-8))
