@@ -530,11 +530,12 @@
 
 <div>&nbsp;</div>
 
+<a align="right" href="https://github.com/imshubhampatel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhampatel&langs_count=6&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&locale=en&custom_title=Top%206%20Languages" alt="Top Languages" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a align="left" href="https://github.com/imshubhampatel">
 <img align="left" src="https://raw.githubusercontent.com/imshubhampatel/imshubhampatel/main/leetcode_activity.svg" />
 </a>
-&nbsp;&nbsp;&nbsp;
-<a align="right" href="https://github.com/imshubhampatel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhampatel&langs_count=6&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&locale=en&custom_title=Top%206%20Languages" alt="Top Languages" /></a>
+
 
 </div>
 <div>&nbsp;</div>
