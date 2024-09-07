@@ -10,6 +10,7 @@ if response.status_code == 200:
     new_name_bytes =  '<rect id="background" style="opacity: 0;"></rect>'.encode('utf-8')
     print(new_name_bytes)
     print("kidfsd")
+    print("kidfsd")
     print(old_name_bytes)
     with open('leetcode_activity.svg', 'rb') as file:
         binary_data = file.read()
