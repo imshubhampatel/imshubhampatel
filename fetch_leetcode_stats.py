@@ -9,6 +9,7 @@ response = requests.get(url)
 
 
 if response.status_code == 200:
+    svg_content = response.content
     updated_style = '''
 #background {
     transform: translate(0.5px, 0.5px);
