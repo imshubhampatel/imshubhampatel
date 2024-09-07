@@ -6,7 +6,7 @@ response = requests.get("https://leetcard.jacoblin.cool/JacobLinCool?ext=heatmap
 # Make sure to handle the response correctly
 if response.status_code == 200:
     # Open a file to write the binary data
-    with open('output_file.svg', 'wb') as file:
+    with open('leetcode_activity.svg', 'wb') as file:
         file.write(response.content)
 else:
     print(f"Failed to fetch data: {response.status_code}")
@@ -27,4 +27,4 @@ def replace_element_in_svg(file_path, old_name, new_name):
         file.truncate()
 
 # Example usage
-replace_element_in_svg('output_file.svg', '<rect id="background"></rect>', '<rect id="background" style="opacity: 0;"></rect>')
+replace_element_in_svg('leetcode_activity.svg', '<rect id="background"></rect>', '<rect id="background" style="opacity: 0;"></rect>')
