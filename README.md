@@ -538,7 +538,7 @@
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 
-<img  src="./leetcode.svg" />
+<img  src="./leetcode_activity.svg" />
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
