@@ -531,7 +531,7 @@
 </span>
 
 <span align="right"  width="40%">     
-<a href="https://github.com/imshubhampatel"><img  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhampatel&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/imshubhampatel"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhampatel&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </span>
 
 
