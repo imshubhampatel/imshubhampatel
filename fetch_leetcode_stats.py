@@ -10,7 +10,7 @@ response = requests.get(url)
 # Check if the request was successful
 if response.status_code == 200:
     # Parse the SVG content using BeautifulSoup
-    soup = BeautifulSoup(response.content, 'xml')
+    soup = BeautifulSoup(response.content, 'lxml')
     
     # Find the <rect> element with id="background"
     rect = soup.find('rect', id='background')
