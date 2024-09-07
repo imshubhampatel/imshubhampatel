@@ -526,7 +526,7 @@
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/imshubhampatel?theme=transparent&font=Assistant&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/imshubhampatel?theme=transparent&ext=activity)
 
 <div>&nbsp;</div>
 <div>&nbsp;</div>
