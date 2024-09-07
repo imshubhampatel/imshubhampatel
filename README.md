@@ -509,10 +509,8 @@
 </div>
 
 <div>&nbsp;</div>
-<div>&nbsp;</div>
 
 <h3 align="left">My Github Stats</h3>
-<div>&nbsp;</div>
 <div>&nbsp;</div>
 
 <div width="100%" align="left">
@@ -527,11 +525,9 @@
 </div>
 
 <div>&nbsp;</div>
-<div>&nbsp;</div>
 
 <h3 align="left">LeetCode and Languages</h3>
 
-<div>&nbsp;</div>
 <div>&nbsp;</div>
 
 <a align="left" href="https://github.com/imshubhampatel">
@@ -542,10 +538,7 @@
 
 <a align="right" href="https://github.com/imshubhampatel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhampatel&langs_count=6&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&locale=en&custom_title=Top%206%20Languages" alt="Top Languages" /></a>
 
-
 </div>
-
-<div>&nbsp;</div>
 <div>&nbsp;</div>
 
 <p  align="left"><b>Top Repositories</b></p>
