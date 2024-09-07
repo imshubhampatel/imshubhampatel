@@ -28,7 +28,12 @@ jobs:
     - name: Commit changes
       run: |
         git config --local user.email "shubhampatel2024@gmail.com"
-        git config --local user.name "imshubhampatel"
+        git config --local user.name "Shubham Patel"
         git add .
         git commit -m "Update LeetCode stats"
-        git push
+
+    - name: Push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
+      run: |
+        git push https://$GITHUB_TOKEN@github.com/imshubhampatel/imshubhampatel.git HEAD:main
