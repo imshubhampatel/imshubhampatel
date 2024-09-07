@@ -20,7 +20,7 @@ for elem in root.findall('.//svg:rect', namespaces=ns):
         elem.get('rx') == '4px'):
         
         # Update the opacity attribute
-        elem.set('opacity', '')  # You can set a specific value or leave it empty
+        elem.set('opacity', '0')  # You can set a specific value or leave it empty
 
 # Save the modified SVG file
 tree.write('modified_example.svg')
