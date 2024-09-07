@@ -27,4 +27,4 @@ def replace_element_in_svg(file_path, old_name, new_name):
         file.truncate()
 
 # Example usage
-replace_element_in_svg('output_file.svg', '<rect id="background"></rect>'.encode('utf-8'), '<rect id="background" style="opacity: 0;"></rect>'.encode('utf-8))
+replace_element_in_svg('output_file.svg', '<rect id="background"></rect>', '<rect id="background" style="opacity: 0;"></rect>')
