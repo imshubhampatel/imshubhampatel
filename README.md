@@ -531,7 +531,7 @@
 <div>&nbsp;</div>
 
 <a align="left" href="https://github.com/imshubhampatel">
-<img align="left" src="./leetcode_activity.svg" />
+<img align="left" src="https://raw.githubusercontent.com/imshubhampatel/imshubhampatel/main/leetcode_activity.svg" />
 </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
