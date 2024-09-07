@@ -536,7 +536,7 @@
 <span align="left">
 <a href="https://github.com/imshubhampatel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhampatel&langs_count=3&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <span align="right" >
-<a href="leetcode.com"><img src="[![LeetCode Stats](https://zeynalmardanli-leetcode-stats.vercel.app/light/imshubhampatel)](https://zeynalmardanli-leetcode-stats.vercel.app/light/Lshiroc)" alt="Top Languages" /></a>
+[![LeetCode Stats](https://zeynalmardanli-leetcode-stats.vercel.app/light/imshubhampatel)](https://zeynalmardanli-leetcode-stats.vercel.app/light/Lshiroc)
 </span>
 </div>
 
