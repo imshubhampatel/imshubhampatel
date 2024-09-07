@@ -33,4 +33,4 @@ jobs:
         git config --local user.name "imshubhampatel"
         git add .
         git commit -m "Update LeetCode stats"
-        git push https://$GITHUB_TOKEN@github.com/imshubhampatel/imshubhampatel.git HEAD:main
+        git push https://x-access-token:$GITHUB_TOKEN@github.com/imshubhampatel/imshubhampatel.git HEAD:main
