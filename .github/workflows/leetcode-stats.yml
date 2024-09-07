@@ -2,7 +2,7 @@ name: Update LeetCode Stats
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Runs every minute
+    - cron: '0 */2 * * *'  # Runs every 2 hours
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
