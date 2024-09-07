@@ -531,6 +531,22 @@
 <div>&nbsp;</div>
 <div>&nbsp;</div>
 
+
+<div width="100%" align="left">
+<span align="left">
+<a href="https://github.com/imshubhampatel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhampatel&langs_count=3&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<span align="right" >
+<a href="leetcode.com"><img src="[![LeetCode Stats](https://zeynalmardanli-leetcode-stats.vercel.app/light/imshubhampatel)](https://zeynalmardanli-leetcode-stats.vercel.app/light/Lshiroc)" alt="Top Languages" /></a>
+</span>
+</div>
+
+
+
+
+
+
+
+
 <p  align="left"><b>Top Repositories</b></p>
 <div width="100%" align="center"><a href="https://github.com/imshubhampatel/Movies-web" align="left"><img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhampatel&repo=Movies-web&description=Movies-web&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/imshubhampatel/bucketvio" align="right"><img align="right" width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhampatel&repo=bucketvio&description=bucketvio&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
