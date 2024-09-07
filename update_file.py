@@ -2,6 +2,7 @@ from lxml import etree
 
 # Load the SVG file
 tree = etree.parse('leetcode_activity.svg')
+print({"tree": tree})
 root = tree.getroot()
 
 # Namespace dictionary (for SVG files)
