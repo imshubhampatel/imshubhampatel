@@ -30,6 +30,10 @@ jobs:
       run: |
         python fetch_leetcode_stats.py
 
+    - name: Update LeetCode File
+      run: |
+        python update_file.py
+
     - name: Commit changes
       env:
         GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
