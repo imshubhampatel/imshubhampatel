@@ -537,10 +537,10 @@
 
 </div>
 <div>&nbsp;</div>
-<div>&nbsp;</div>
 
 <h3  align="left"><b>Top Repositories</b></h3>
-<div width="100%" align="center">
+<div>&nbsp;</div>
+<div width="100%">
        <a href="https://github.com/imshubhampatel/Movies-web" align="left">
               <img 
                      align="left" 
@@ -551,7 +551,7 @@
        <a href="https://github.com/imshubhampatel/bucketvio" align="right">
               <img 
                      align="right" 
-                     width="46%" 
+                     width="40%" 
                      src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhampatel&repo=bucketvio&description=bucketvio&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&locale=en" 
               />
        </a>
