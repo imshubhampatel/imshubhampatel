@@ -26,13 +26,13 @@
               />
        </a>
            &nbsp; &nbsp;
-<a href="https://www.leetcode.com/imshubhampatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="imshubhampatel" height="40" width="40" /></a>
-    &nbsp;    &nbsp;
-<a href="https://www.geeksforgeeks.org/user/imshubhampatel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="imshubhampatel" height="50" width="50" /></a>
- &nbsp;    &nbsp;
 <a href="https://instagram.com/me_s.mile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imshubhampatel" height="40" width="40" /></a>
  &nbsp;    &nbsp;
 <a href="https://twitter.com/bbshubhampatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="imshubhampatel" height="40" width="40" /></a>
+ &nbsp;    &nbsp;
+<a href="https://www.leetcode.com/imshubhampatel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="imshubhampatel" height="40" width="40" /></a>
+    &nbsp;    &nbsp;
+<a href="https://www.geeksforgeeks.org/user/imshubhampatel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="imshubhampatel" height="50" width="50" /></a>
  &nbsp;    &nbsp;
 </p>
 
