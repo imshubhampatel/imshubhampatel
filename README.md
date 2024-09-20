@@ -245,7 +245,7 @@
 <h3 align="left">Additional Tools</h3>
 <!-- Docker -->
      <span>
-       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+       <a href="https://docs.docker.com/get-started/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
               alt="https://www.linux.org/" 
@@ -257,10 +257,10 @@
      &nbsp;&nbsp;
 <!-- Kubernetes -->
      <span>
-       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+       <a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
-              alt="https://www.linux.org/" 
+              alt="https://kubernetes.io/docs/home/" 
               width="50" 
               height="50"
             /> 
@@ -340,10 +340,10 @@
     </span>
      &nbsp;&nbsp;
      <span>
-       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+       <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-              alt="https://www.linux.org/" 
+              alt="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" 
               width="50" 
               height="50"
             /> 
@@ -434,7 +434,7 @@
        <a href="https://yaml.org/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-              alt="https://aws.amazon.com/" 
+              alt="https://yaml.org/" 
               width="50" 
               height="50"
             /> 
@@ -486,10 +486,10 @@
     </span>
     &nbsp; &nbsp;
     <span >
-       <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> 
+       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
-              alt="https://webpack.js.org/" 
+              alt="https://code.visualstudio.com/" 
               width="60" 
               height="50"
             /> 
@@ -497,10 +497,10 @@
     </span>
     &nbsp; &nbsp;
     <span >
-       <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> 
+       <a href="https://eslint.org/docs/latest/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-plain.svg" 
-              alt="https://webpack.js.org/" 
+              alt="https://eslint.org/docs/latest/" 
               width="60" 
               height="50"
             /> 
