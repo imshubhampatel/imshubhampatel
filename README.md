@@ -75,7 +75,7 @@
 <!-- https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg -->
      <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
-       <a href="ttps://www.linux.org/" target="_blank" rel="noreferrer"> 
+       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
               alt="https://www.linux.org/" 
@@ -88,7 +88,7 @@
 <!--     TypeScript  -->
      <span>
       <!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"  -->
-       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
             <img 
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
               alt="https://www.linux.org/" 
