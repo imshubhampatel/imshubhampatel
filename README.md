@@ -540,7 +540,7 @@
 
 <h3  align="left"><b>Top Repositories</b></h3>
 <div>&nbsp;</div>
-<div align="center">
+<div align="left">
        <a href="https://github.com/imshubhampatel/Movies-web" align="left">
               <img 
                      align="left" 
