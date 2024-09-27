@@ -544,14 +544,12 @@
        <a href="https://github.com/imshubhampatel/Movies-web" align="left">
               <img 
                      align="left" 
-                     width="40%" 
                      src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhampatel&repo=Movies-web&description=Movies-web&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&locale=en"
               />
        </a>
        <a href="https://github.com/imshubhampatel/bucketvio" align="right">
               <img 
-                     align="right" 
-                     width="40%" 
+                     align="right"
                      src="https://github-readme-stats.vercel.app/api/pin/?username=imshubhampatel&repo=bucketvio&description=bucketvio&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=212830&hide_border=true&locale=en" 
               />
        </a>
