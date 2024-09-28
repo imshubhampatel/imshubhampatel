@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Please have a look](https://drive.google.com/file/d/1EW84vfmbW0HymM3n9chXXuqIgyu47jci/view?usp=sharing)
 <h3 align="left">About me:</h3>
-<p>As a dedicated <strong>Full Stack Developer</strong> with a focus on both backend and frontend development, I bring a wealth of experience in building scalable and efficient software solutions. I have successfully designed and implemented backend services in Django and Spring Boot, leveraging technologies such as Red Hat Ansible, Boto3, and Kubernetes to ensure high availability and seamless deployment. My expertise also includes integrating caching mechanisms and real-time features using Redis and WebSockets.</p>
+<p>As a dedicated <strong>Full Stack Developer</strong> with a focus on both <strong>Backend</strong> and <strong>Frontend</strong> development, I bring a wealth of experience in building scalable and efficient software solutions. I have successfully designed and implemented backend services in <strong>Django</strong> and <strong>Spring Boot</strong>, leveraging technologies such as <strong>Red Hat Ansible</strong> , <strong>Boto3</strong>, and <strong>Kubernetes</strong> to ensure <strong>high availability</strong> and seamless deployment. My expertise also includes integrating <strong>caching mechanisms</strong> and real-time features using <strong>Redis</strong> and <strong>WebSockets</strong>.</p>
 
 <p>On the frontend side, I excel in developing reusable components using React, translating design mockups into responsive user interfaces, and deploying full applications on cloud infrastructure. I am well-versed in containerization technologies like Docker, and I use Kubernetes to maintain microservice architectures that are scalable and easy to deploy.</p>
 
