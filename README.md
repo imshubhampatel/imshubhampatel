@@ -10,7 +10,7 @@
 - 📫 How to reach me **Shubhampatel2024@gmail.com**
 
 - 📄 Know about my experiences [Please have a look](https://drive.google.com/file/d/1EW84vfmbW0HymM3n9chXXuqIgyu47jci/view?usp=sharing)
-<h3 align="left">About m:</h3>
+<h3 align="left">About me:</h3>
 <p>As a dedicated Full Stack Developer with a focus on both backend and frontend development, I bring a wealth of experience in building scalable and efficient software solutions. I have successfully designed and implemented backend services in Django and Spring Boot, leveraging technologies such as Red Hat Ansible, Boto3, and Kubernetes to ensure high availability and seamless deployment. My expertise also includes integrating caching mechanisms and real-time features using Redis and WebSockets.</p>
 
 <p>On the frontend side, I excel in developing reusable components using React, translating design mockups into responsive user interfaces, and deploying full applications on cloud infrastructure. I am well-versed in containerization technologies like Docker, and I use Kubernetes to maintain microservice architectures that are scalable and easy to deploy.</p>
