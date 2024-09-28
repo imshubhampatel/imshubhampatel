@@ -17,6 +17,9 @@
 
 <p>I prioritize security in all projects by implementing JWT authentication, two-factor authentication, and best practices for web security, including Nginx server configurations. My hands-on experience with payment integrations, CI/CD pipelines, and AWS infrastructure further strengthens my ability to create complete, production-ready applications.</p>
 
+<p>In addition to my professional experience, I have actively contributed to open-source projects, including my role as an Open Source Contributor at Team Shiksha from December 2023 to August 2024. During this time, I developed reusable components for the frontend using React.js and Vite, implemented AWS Lambda and AWS RDS for efficient backend operations, and deployed a Netlify Serverless Architecture for seamless frontend and backend integration. I also contributed to AWS CloudFormation for Infrastructure as a Service (IaaS) development.
+</p>
+
 <p>I thrive in environments where I can use my technical skills to solve complex problems, improve development workflows, and contribute to scalable, user-friendly software that makes an impact.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
